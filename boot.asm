@@ -3,6 +3,7 @@ mov ds, ax
 
 mov byte[0], 'H'
 
+; hello
 halt:
     jmp halt
 
